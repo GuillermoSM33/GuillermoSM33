@@ -9,12 +9,6 @@
   <a href="https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/indeed-logo.svg" height="25" alt="Indeed logo" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
 </div>
 
 ###
