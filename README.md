@@ -39,6 +39,34 @@ Currently expanding expertise in cloud architecture and distributed systems whil
 
 ---
 
+### Tech Stack
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" height="28" />
+
+**Frameworks**
+<br>
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" height="28" />
+
+**Tools**
+<br>
+<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" height="28" />
+
+---
+
 ### Professional Experience
 
 **Leader Developer | 2025 – Present**  
