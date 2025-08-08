@@ -1,104 +1,66 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-###
+<h1 align="center">👋 Hey, I'm Guillermo García</h1>
+<h3 align="center">Technical Project Lead | Software Engineer</h3>
 
 <div align="center">
-  <!-- Replace links or add your own social profiles as needed -->
   <a href="https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/indeed-logo.svg" height="25" alt="Indeed logo" />
   </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GuillermoSM33.GuillermoSM33" alt="visitor badge"/>
 </div>
 
-###
+---
 
-<h1 align="center">Hey there 👋</h1>
+### 👨‍💻 About Me
 
-###
+- 🚀 **Technical Project Lead** with experience delivering **cloud-native applications** in **Azure** and **AWS**, from design to deployment.  
+- 💼 Proven track record **leading teams**, defining **technical architectures**, and integrating **secure authentication** with Azure Entra ID.  
+- 🔧 Skilled in building **REST APIs, microservices**, and **front-end interfaces** with modern frameworks.  
+- ⚙️ Strong background in **DevOps practices** — Docker, CI/CD pipelines, and automated deployments.  
+- 🌱 Constant learner, currently deepening expertise in **cloud architecture** and **distributed systems**.  
 
-<h3 align="left">👨‍💻 About Me</h3>
+---
 
-<p align="left">
-  I'm Guillermo from Cancún, Mexico.<br><br>
-  - 🔭 I’m working as a Software Developer, mainly focusing on PHP and Laravel.<br>
-  - 💼 I have experience creating RESTful APIs and microservices, particularly for web-based projects and mobile backends.<br>
-  - 📚 I'm currently learning new DevOps practices like Docker, CI/CD, and continuous monitoring to streamline development and deployment processes.<br>
-  - 🌐 I also love exploring front-end frameworks such as Vue and React to build dynamic, user-friendly interfaces.<br>
-  - ⚡ In my free time, I enjoy reading about emerging tech trends, prototyping personal ideas, and staying updated on best coding practices.
-</p>
+### 🛠 Tech Stack
 
-###
+#### **Languages**
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff&style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 
-<h3 align="left">🛠 Languages and Tools</h3>
+#### **Frameworks & Tools**
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=fff&style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=flat)
 
-<div align="center">
+---
 
-  <h1 align="center">Languages</h1>
+### 📌 Highlight Projects & Roles
 
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" height="40" alt="PHP logo" />
-  <img width="12" />
+- **Leader Developer** (2025 - Today)  
+  Directed the design and delivery of a corporate inventory system on Azure, integrating Entra ID authentication, Container Apps, and CI/CD pipelines.
 
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg" height="40" alt="Python logo" />
-  <img width="12" />
+- **Developer Contractor** (2025)  
+  Developed and deployed a custom inventory management system for a Microsoft-based corporate environment, providing training to engineers and end-users.
 
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="40" alt="JS logo" />
-  <img width="12" />
+- **Team Leader** (2024)  
+  Led a team to build a school control system, overseeing architecture, coding standards, and deployment strategy.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo" />
-  <img width="12" />
+- **Freelance Developer** (2024)  
+  Delivered a web application for an industrial services company, handling backend, frontend, and database integration.
 
-  <h1 align="center">Frameworks</h1>
-  
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21~bgwhite.svg" height="40" alt="laravel logo" />
-  <img width="12" />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
-  <img width="12" />
-  
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" height="40" alt="Vue logo" />
-  <img width="12" />
+### 🌟 What I Bring to the Table
+- **Leadership**: Proven experience guiding technical teams and delivering projects on time.
+- **Full Lifecycle Development**: From requirement gathering to deployment and maintenance.
+- **Cross-Disciplinary Skills**: Backend, frontend, DevOps, and cloud — ensuring end-to-end solutions.
 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21~bgwhite.svg" height="40" alt="Flutter logo" />
-  <img width="12" />
+---
 
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" height="40" alt="React logo" />
-  <img width="12" />
-
-  <h1 align="center">Tools</h1>
-  
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="40" alt="github logo" />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuillermoSM33&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
-<h3 align="left">🌱 More About Me</h3>
-<p align="left">
-  - 🌎 I'm passionate about contributing to open-source projects and learning from the community.<br>
-  - 🤝 I enjoy collaborating with teams and believe that clear communication is key for any project's success.<br>
-  - 💡 I'm always open to new challenges and love refining my existing skill set.<br>
-  - 🙌 Feel free to reach out if you want to discuss any project, idea, or just say hi!
-</p>
+📫 **Let’s connect:** guillermo.jesus.garcia.canul@gmail.com | Cancún, México
