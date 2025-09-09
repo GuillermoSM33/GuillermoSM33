@@ -34,7 +34,8 @@ Currently expanding expertise in cloud architecture and distributed systems whil
 
 **Development**  
 - .NET (C#), Go, JavaScript/TypeScript, PHP  
-- Laravel, Vue.js, React  
+- Laravel, Vue.js, React
+- Python
 - Database design and optimization (SQL Server, MySQL)  
 
 ---
@@ -48,6 +49,7 @@ Currently expanding expertise in cloud architecture and distributed systems whil
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" height="28" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" height="28" />
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" height="28" />
+<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" height="28" />
 
 **Frameworks**
 <br>
