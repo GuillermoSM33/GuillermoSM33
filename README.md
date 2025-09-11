@@ -99,4 +99,9 @@ Universidad Tecnológica – Graduated (2022 – 2024)
 
 Email: guillermo.jesus.garcia.canul@gmail.com  
 Location: Cancún, México
+
+---
+
+### Portfolio
+
 Page: https://thinkguille.space/
